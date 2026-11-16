@@ -30,7 +30,7 @@ func _physics_process(delta):
     get_input()
     move_and_slide()
 ```
-
+* Used to control the movement of a sprite on the screen
 
 Basically my thought process of how I'm gonna use godot is using the sprite and making a platformer game where the user can choose what subject they are trying to study and they are able to collect points but also study at the same time. If they don't want to do that then there will be an option where it gives a summary of whatever unit or topic they want.
 
